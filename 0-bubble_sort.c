@@ -1,3 +1,5 @@
+#include "sort.h"
+
 /**
   * bubble_sort - bubble sort function.
   * @array: array to ssort.
